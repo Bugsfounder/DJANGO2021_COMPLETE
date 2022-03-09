@@ -16,9 +16,9 @@ pip install django
 
 ---
 
-> **_ NOTE _**
-> Multiple versions of Python may be installed on your pc.
-> If you are a beginner and don't have any prior experience working with multiple Python versions, I would suggest removing all the Python versions and then installing the latest Python version.
+**_ NOTE _**
+Multiple versions of Python may be installed on your pc.
+If you are a beginner and don't have any prior experience working with multiple Python versions, I would suggest removing all the Python versions and then installing the latest Python version.
 
 ---
 
